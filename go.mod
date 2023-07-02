@@ -1,4 +1,4 @@
-module github.com/wii-tools/powerpc
+module github.com/RoanHemmings/powerpc
 
 go 1.17
 
